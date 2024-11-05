@@ -157,3 +157,22 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.cyan { color: cyan; }
+.orange { color: orange; }
+.violet { color: violet; }
+.bold { font-weight: bold; }
+
+.proprietary-llm {background-color: lightpink;}
+.opensource-llm {background-color: lightblue;}
+.other {background-color: lightgray;}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: center;
+}
