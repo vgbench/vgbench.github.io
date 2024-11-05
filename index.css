@@ -165,14 +165,34 @@ body {
 
 .proprietary-llm {background-color: lightpink;}
 .opensource-llm {background-color: lightblue;}
-.other {background-color: lightgray;}
+.vlm {background-color: lightgray;}
 
 table {
   width: 100%;
+  min-width: 1020px;
   border-collapse: collapse;
 }
 th, td {
   border: 1px solid #000;
   padding: 8px;
   text-align: center;
+}
+
+.legend-container {
+  min-width: 1020px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px; /* 每个图注间增加间距 */
+}
+.color-box {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
 }

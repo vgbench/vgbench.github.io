@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0725"
+     inkscape:cx="68.516285"
+     inkscape:cy="91.435464"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <!-- Outer Circle Border -->
+  <circle
+     cx="100"
+     cy="100"
+     r="90"
+     stroke="#5555FF"
+     stroke-width="8"
+     fill="none"
+     id="circle1" />
+  <!-- Inner Circle with Gradient -->
+  <circle
+     cx="100"
+     cy="100"
+     r="80"
+     fill="url(#grad1)"
+     id="circle2" />
+  <!-- Gradient Definition -->
+  <defs
+     id="defs3">
+    <linearGradient
+       id="grad1"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         style="stop-color:#A0AFFF;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="100%"
+         style="stop-color:#5555FF;stop-opacity:1"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <!-- LLM Symbol (Brackets) -->
+  <text
+     x="47.808689"
+     y="112.78139"
+     font-family="Arial, sans-serif"
+     font-size="40px"
+     font-weight="bold"
+     fill="#ffffff"
+     id="text3"
+     style="font-size:61.907px;stroke-width:0.967298"
+     transform="scale(0.96730565,1.0337994)">{</text>
+  <text
+     x="135.10126"
+     y="112.78139"
+     font-family="Arial, sans-serif"
+     font-size="40px"
+     font-weight="bold"
+     fill="#ffffff"
+     id="text3-3"
+     style="font-size:61.907px;stroke-width:0.967298"
+     transform="scale(0.96730565,1.0337994)">}</text>
+  <path
+     class="st0"
+     d="m 92.108404,80.962136 17.872586,-7.055806 15.41149,15.024724 -7.19237,16.860706 c -12.19711,3.1983 -23.55838,7.86637 -34.285032,13.65262 l -2.177318,-2.55865 21.27272,-19.96136 c 0.42823,0.18557 0.89259,0.27834 1.36211,0.27834 0,0 0.005,0 0.005,0 1.83679,0 3.32273,-1.40628 3.32273,-3.144597 0,-1.733446 -1.48594,-3.144601 -3.32273,-3.144601 -1.83162,0 -3.32273,1.40628 -3.32273,3.144601 0,0.561528 0.15479,1.088877 0.42823,1.543007 l -21.050852,19.79532 -2.92029,-2.52446 C 83.935357,102.92059 88.847224,92.310027 92.108044,80.962136 Z M 115.07345,70 l 14.92651,14.472951 -1.36213,1.254909 -1.3621,1.254904 -14.92652,-14.477829 1.36213,-1.254909 z m -35.275672,52.42296 c 6.996316,6.09387 11.113617,3.43756 16.938722,-0.33204 4.81899,-3.11531 10.64409,-6.88003 19.4772,-8.12517 0.62946,-2.00199 2.59008,-3.46198 4.90671,-3.46198 2.8274,0 5.11824,2.16801 5.11824,4.84384 0,2.67584 -2.29084,4.84386 -5.11824,4.84386 -1.98641,0 -3.70971,-1.06937 -4.55586,-2.63677 -7.9044,1.18654 -13.25482,4.64363 -17.68684,7.50503 -7.465842,4.82431 -12.682122,8.19353 -21.824799,-0.11712 -0.613983,0.23437 -1.269243,0.35645 -1.929662,0.35645 0,0 -0.005,0 -0.005,0 -2.82742,0 -5.118249,-2.16802 -5.118249,-4.84385 0,-2.67583 2.290829,-4.84385 5.118249,-4.84385 2.827419,0 5.118248,2.16802 5.118248,4.84385 0,0 0,0.005 0,0.005 0,0.67872 -0.149624,1.3428 -0.438559,1.96292 z"
+     id="path1"
+     style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.501933" />
+  <!-- Text 'Benchmark' -->
+  <!-- Vector Icon - Pen Tip -->
+  <!-- Pen Tip Inner Highlight -->
+  <!-- Bottom Line Text (Representation of Vector) 
+  <text x="40" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="normal" fill="#FFFFFF">
+    Vector & AI Understanding
+  </text>-->
+</svg>
